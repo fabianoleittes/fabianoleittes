@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ⚡ Fun fact: ...
 🥋 I'm Brazilian Jiu-Jitsu Black Belt
 -->
-🔭 **I’m currently working on:** An e-commerce platform.
+🔭 **I’m currently working on:** An e-commerce platform & as *Jiu Jitsu Teacher* at [@gfteampoasp](https://www.instagram.com/gfteampoasp/)
 
 🌱 **I’m currently learning:** Leadership, Productivity, Build Good Habits and Break Bad Ones.
 
