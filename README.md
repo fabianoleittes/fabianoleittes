@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 🔭 **I’m currently working on:** An e-commerce platform & as *Jiu Jitsu Teacher* at [@gfteampoasp](https://www.instagram.com/gfteampoasp/)
 
-🌱 **I’m currently learning:** Leadership, Productivity, Build Good Habits and Break Bad Ones.
+🌱 **I’m currently learning:** [ System Design, Leadership, Productivity, Build Good Habits and Break Bad Ones. ]
 
 💬 **Ask me about:** Ruby, Rails, Go, Git, Microservices and Jiu Jitsu.
 
