@@ -1,10 +1,10 @@
 ### Hey, There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">!
 
-👨🏾‍💻 I'm Fabiano, self-taught, lifelong learner and lead software engineer with 11+ years of experience, based in São Paulo, 🇧🇷.
+👨🏾‍💻 I'm Fabiano, a self-taught, lifelong learner and lead software engineer with +12 years of experience, based in São Paulo, 🇧🇷.
 
-I'm extremely passionate about software engineering and making people’s lives better with technology.
+I'm incredibly passionate about software engineering and improving people’s lives with technology.
 
-I really love to use my ability to think strategically, critically, and creatively to solve problems that in the end will help people.
+I love to use my ability to think strategically, critically, and creatively to solve problems that will ultimately help people.
 
 <!--
 **fabianoleittes/fabianoleittes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
