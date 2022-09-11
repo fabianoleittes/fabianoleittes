@@ -1,6 +1,6 @@
 ### Hey, There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">!
 
-👨🏾‍💻 I'm Fabiano, a self-taught, lifelong learner and lead software engineer with +12 years of experience, based in São Paulo, 🇧🇷.
+👨🏾‍💻 I'm Fabiano, a self-taught hacker, lifelong learner, and lead software engineer with +12 years of experience, based in São Paulo, 🇧🇷.
 
 I'm incredibly passionate about software engineering and improving people’s lives with technology.
 
