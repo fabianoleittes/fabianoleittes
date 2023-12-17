@@ -1,10 +1,10 @@
 ### Hey, There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">!
 
-👨🏾‍💻 I'm Fabiano, a self-taught hacker, lifelong learner, and lead software engineer with +13 years of experience, based in São Paulo, 🇧🇷.
+👨🏾‍💻I'm Fabiano, a self-taught hacker, lifelong learner, and software engineer with +13 years of experience, currently based in São Paulo, 🇧🇷.
 
 I'm incredibly passionate about software engineering and improving people’s lives with technology.
 
-I love to use my ability to think strategically, critically, and creatively to solve problems that will ultimately help people.
+I love to use my ability to think strategically, critically, and creatively to solve problems with the ultimate goal of making a positive impact on people's lives.
 
 <!--
 **fabianoleittes/fabianoleittes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 ⚡ Fun fact: ...
 🥋 I'm Brazilian Jiu-Jitsu Black Belt
 -->
-🔭 **I’m currently working on:** An e-commerce platform & as *Jiu Jitsu Teacher* at [@jonesforteteam](https://www.instagram.com/jonesforteteam/)
+🔭 **I’m currently working on:** I currently work at a French Martech company & as *Jiu Jitsu Teacher*
 
 🌱 **I’m currently learning:** [ System Design, Leadership, Productivity, Build Good Habits and Break Bad Ones. ]
 
-💬 **Ask me about:** Ruby, Rails, Go, Git, Microservices and Jiu Jitsu.
+💬 **Ask me about:** Ruby, Rails, Go, Git, Microservices, and Jiu Jitsu.
 
 📫 **How to reach me:** fabianoleittes at gmail dot com.
 
-⚡ **Fun fact:** 🥋 I'm Brazilian Jiu-Jitsu Black Belt.
+⚡ **Fun fact:** 🥋 I'm a Brazilian Jiu-Jitsu Black Belt.
 
 🥅 **2023 Goals:** Contribute more to Open Source projects.
 
