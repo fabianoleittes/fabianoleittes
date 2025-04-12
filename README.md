@@ -1,6 +1,6 @@
 ### Hey, There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">!
 
-👨🏾‍💻I'm Fabiano, a self-taught hacker, lifelong learner, and software engineer with +14 years of experience, currently based in São Paulo, 🇧🇷.
+👨🏾‍💻I'm Fabiano, a self-taught hacker, lifelong learner, and software engineer with +15 years of experience, currently based in São Paulo, 🇧🇷.
 
 I'm incredibly passionate about software engineering and improving people’s lives with technology.
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ⚡ Fun fact: ...
 🥋 I'm Brazilian Jiu-Jitsu Black Belt
 -->
-🔭 **I’m currently working on:** I currently work at a French Martech company & as *Jiu Jitsu Teacher*
+🔭 **I’m currently working on:** I currently work at a Fintech company & as *Jiu Jitsu Teacher*
 
 🌱 **I’m currently learning:** [ System Design, Leadership, Productivity, Build Good Habits and Break Bad Ones. ]
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ⚡ **Fun fact:** 🥋 I'm a Brazilian Jiu-Jitsu Black Belt.
 
-🥅 **2023 Goals:** Contribute more to Open Source projects.
+🥅 **2025 Goals:** Contribute more to Open Source projects.
 
 
 🌎 Find me elsewhere:
